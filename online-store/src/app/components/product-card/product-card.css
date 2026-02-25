@@ -1,0 +1,12 @@
+.images-row {
+  display: flex;
+  gap: 5px;            
+  margin-bottom: 10px;
+}
+
+.images-row img {
+  flex: 1 1 0;         
+  max-height: 200px;    
+  width: 100%; 
+  object-fit: contain; 
+}

@@ -1,0 +1,16 @@
+/* To learn more about Typescript configuration file: https://www.typescriptlang.org/docs/handbook/tsconfig-json.html. */
+/* To learn more about Angular compiler options: https://angular.dev/reference/configs/angular-compiler-options. */
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./out-tsc/app",
+    "rootDir": "./src",
+    "types": []
+  },
+  "include": [
+    "src/**/*.ts"
+, "src/app/Event handlinsrc/app/Control Flow in Components-isrc/app/Control Flow in Components-fosrc/app/Composing Componentsrc/app/Components in Angular.tss.ts", "Components in Angular.ts", "src/app/Property Binding in Angular.ts", "src/app/Updating the Component Class.ts", "../task1/Component input properties.ts"  ],
+  "exclude": [
+    "src/**/*.spec.ts"
+  ]
+}
