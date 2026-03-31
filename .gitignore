@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 node_modules/
 dist/
 .angular/
 out-tsc/
+=======
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+.env
+>>>>>>> 608ea7abb25005b99d77d8801a903e070c51e45b
